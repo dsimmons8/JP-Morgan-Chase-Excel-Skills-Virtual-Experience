@@ -1,14 +1,14 @@
 # JP-Morgan-Chase-Excel-Skills
 ---
-This repository contains my solution to the JP Morgan Chase Excel Skill Virtual Experience on Forage. 
+###### This repository contains my solution to the JP Morgan Chase & CO Excel Skills Virtual Program 
 ---
-### Introduction
-
+## Introduction
+###### Within this project 
 ----
-### Task 1: Excel Keyboard Shortcuts
-Practice common keyboard shortcuts to make working in Excel more efficient
+## Task 1: Excel Keyboard Shortcuts
+####### Practice common keyboard shortcuts to make working in Excel more efficient
 ----
-### Task 2: Conditional Formatting
+## Task 2: Conditional Formatting
 Use Excel’s conditional formatting tools to explore and visualize the characteristics of the data in the dataset 
 -	Highlighted any cell with formula errors in purple with white text.
 -	Highlighted any cell with missing values in yellow.
@@ -17,7 +17,7 @@ Use Excel’s conditional formatting tools to explore and visualize the characte
 -	Identified accounts in the top 10% of unit sales for 2021 by highlighting the appropriate 2021-unit cells in blue.
 
 ![image](https://user-images.githubusercontent.com/80928372/211221745-8bc5b5ac-0ee5-4194-b822-ccc5da5a0f5a.png "Conditional Formatting in Excel")
-
+---
 ### Task 3: Visual Basic for Applications (VBA) Macros
 Utilized macros in Excel and create two macros using same spreadsheet that was modified prior. 
 -	Created a macro to sort the entire spreadsheet by 5 year CAGR in descending order to see which account have the higher overall 5 year growth
