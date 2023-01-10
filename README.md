@@ -1,9 +1,10 @@
 # JP-Morgan-Chase-Excel-Skills
 
-This repository contains my solution to the JP Morgan Chase & CO Excel Skills Virtual Program 
+This repository contains my solution to the JP Morgan Chase & CO Excel Skills Virtual Program. 
+![image](https://user-images.githubusercontent.com/80928372/211667844-3e1552d8-ef69-44f4-b629-dcd469463294.png "Cerificate")
 
 ## Introduction
-Within this project 
+The Sales Team wants to know how their unit sales are doing and how can they improve. 
 ## Task 1: Excel Keyboard Shortcuts
 Practice common keyboard shortcuts to make working in Excel more efficient
 ## Task 2: Conditional Formatting
@@ -33,6 +34,9 @@ Created a simple dashboard using the account sales dataset
 ![image](https://user-images.githubusercontent.com/80928372/211222660-db3f7b90-c060-4111-b6c6-da311974a792.png "Visualization")
  
 ## Task 5: Data-Driven Storytelling
+Created a PowerPoint Presentation to communicated key insights. The recommendations provided are:
+-	Invest the freed- up sales and marketing resources into our online retailer accounts would drive most sales growth.
+-	Close the underperforming accounts and launch efforts to identify the highest potential online retailers accounts for increased sales and marketing investment. 
 
 
 
